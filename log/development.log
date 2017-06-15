@@ -73,3 +73,17 @@ Processing by ApplicationController#goodbye as HTML
 Completed 200 OK in 0ms (Views: 4.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-06-15 23:15:55 +0800
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 85ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-06-15 23:16:07 +0800
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 0ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+
